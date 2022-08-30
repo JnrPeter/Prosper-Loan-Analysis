@@ -4,7 +4,7 @@
 
 - Prosper_Loan_Exploration Analysis : Contains the Exploratory analysis of the dataset , visualizations and the code used to perform the analysis.
 - Prosper_Loan_Explantory : Contains the Explantory analysis of the specific insights choosen from the exploratory analysis with polished visualizations.
-- Prosper_Loan_Explantory.slides : A slide deck presentation of specific insights from the explanatory analysis.
+- Prosper_Loan_Explanatory.slides : A slide deck presentation of specific insights from the explanatory analysis.
 - README.md : A file containing an overview, summary and description of the entire Project.
 
 ## Dataset
