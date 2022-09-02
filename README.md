@@ -7,9 +7,9 @@
 - Prosper_Loan_Explanatory.slides : A slide deck presentation of specific insights from the explanatory analysis.
 - README.md : A file containing an overview, summary and description of the entire Project.
 
-## Dataset
+## Overview of the Project
 
-> The dataset used for this Project was a Prosper Loan Dataset provided by Udacity.The dataset contains loan information of approximately 113,937 loans, with 81 variables/features (categorical and numerical) which reference either loan information or borrower information.
+> The Project has been divided into two phases, Part 1 and Part 2. The Part 1 focuses on the exploratory analysis of the dataset, whilst part two focuses on the explanatory analysis of the insights gained from part one. The dataset used for this Project was a Prosper Loan Dataset provided by Udacity.The dataset contains loan information of approximately 113,937 loans, with 81 variables/features (categorical and numerical) which reference either loan information or borrower information.
 
 
 ## Summary of Findings
